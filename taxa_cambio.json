@@ -1,0 +1,139 @@
+{
+    "KZ": [
+      {
+        "currency": "USD",
+        "rate": "617.04-KZ"
+      },
+      {
+        "currency": "EUR",
+        "rate": "723.54-KZ"
+      },
+      {
+        "currency": "ZAR",
+        "rate": "41.84-KZ"
+      },
+      {
+        "currency": "RLB",
+        "rate": "108.29-KZ"
+      },
+      {
+        "currency": "LJ",
+        "rate": "5.61-KZ"
+      }
+    ],
+
+    "USD": [
+      {
+        "currency": "KZ",
+        "rate": "0.0016-USD"
+      },
+      {
+        "currency": "EUR",
+        "rate": "1.17-USD"
+      },
+      {
+        "currency": "ZAR",
+        "rate": "0.068-USD"
+      },
+      {
+        "currency": "RLB",
+        "rate": "0.19-USD"
+      },
+      {
+        "currency": "LJ",
+        "rate": "0.0091-USD"
+      }
+    ],
+
+    "EUR": [
+      {
+        "currency": "KZ",
+        "rate": "0.0014-EUR"
+      },
+      {
+        "currency": "USD",
+        "rate": "0.85-EUR"
+      },
+      {
+        "currency": "ZAR",
+        "rate": "0.058-EUR"
+      },
+      {
+        "currency": "RLB",
+        "rate": "0.16-EUR"
+      },
+      {
+        "currency": "LJ",
+        "rate": "0.0078-EUR"
+      }
+    ],
+
+    "RLB": [
+      {
+        "currency": "KZ",
+        "rate": "0.0086-RLB"
+      },
+      {
+        "currency": "USD",
+        "rate": "5.29-RLB"
+      },
+      {
+        "currency": "EUR",
+        "rate": "6.20-RLB"
+      },
+      {
+        "currency": "ZAR",
+        "rate": "0.36-RLB"
+      },
+      {
+        "currency": "LJ",
+        "rate": "0.048-RLB"
+      }
+    ],
+
+    "ZAR": [
+      {
+        "currency": "KZ",
+        "rate": "0.024-ZAR"
+      },
+      {
+        "currency": "USD",
+        "rate": "14.75-ZAR"
+      },
+      {
+        "currency": "EUR",
+        "rate": "17.29-ZAR"
+      },
+      {
+        "currency": "RLB",
+        "rate": "2.79-ZAR"
+      },
+      {
+        "currency": "LJ",
+        "rate": "0.13-ZAR"
+      }
+    ],
+
+    "LJ": [
+      {
+        "currency": "KZ",
+        "rate": "0.18-LJ"
+      },
+      {
+        "currency": "USD",
+        "rate": "109.93-LJ"
+      },
+      {
+        "currency": "EUR",
+        "rate": "128.98-LJ"
+      },
+      {
+        "currency": "RLB",
+        "rate": "20.78-LJ"
+      },
+      {
+        "currency": "ZAR",
+        "rate": "7.45-LJ"
+      }
+    ]
+  }

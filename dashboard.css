@@ -1,0 +1,167 @@
+/*
+ * Sidebar
+ */
+ *{
+  box-sizing: border-box;
+ }
+.sticky-top {
+  position: fixed;
+  width: 100%;
+}
+#container{
+  margin-top: 70px;
+  padding-left:0px; 
+  padding-right:0px
+}
+.sidebar {
+ position: fixed;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ z-index: 100;
+ padding: 48px 0 0; 
+ box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+  
+}
+table {
+  font-size: 1rem;
+}
+.container-full {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.sidebar-sticky {
+  position: relative;
+  top: 0;
+  height: calc(100vh - 48px);
+  padding-top: .5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.label_size{
+  font-size: 22px;
+}
+.img_logo{
+  border-radius: 3px; 
+}
+.display-4 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.card {
+  box-shadow: 5px 5px 5px 5px rgb(16 42 67 / 30%);
+} 
+#container_table{
+  height:400px; 
+  overflow:auto;
+}
+
+#container_calculo{
+  height:400px ;
+}
+#conteinar_valores .card-body{
+  overflow:hidden;
+}
+
+.card_item{
+  width:250px;
+  height: 150px;
+}
+.navbar-toggler{
+  padding: .15rem .45rem;
+}
+.img-user{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.name_user{
+  font-size: 16px;
+}
+.link-home{
+   font-size:20px;
+   font-weight: 600;
+}
+@media (max-width:1200px ) {
+
+  .card_item{
+    width:32%;
+  }
+ 
+  h1.display-4 {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.2;
+  } 
+  .name_user{
+    font-size: 14px;
+    width: 100%;
+    padding-left:12px ;
+  }
+}
+
+@media (max-width:767.98px ) {
+  #container{
+    padding-left: 15px; 
+    padding-right:15px
+  }
+  .label_size{
+    margin-left: 13px;
+    padding: 5px;
+  }
+  .card_item{
+    width:100%;
+  }
+  #container_calculo{
+    height:500px ;
+  }
+  h1.display-4{
+    font-size: 24px;
+  }
+}
+
+.sidebar-sticky {
+  position: relative;
+  top: 0;
+  height: calc(100vh - 48px);
+  padding-top: .5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+@media (max-width:575.98px ) {
+  .container-full {
+    
+    padding-right: 0px; 
+    padding-left: 0px;
+  }
+  
+  .label_size{
+    font-size: 18px;
+    margin-left: 13px;
+    padding: 5px;
+  }
+  .h5{
+    font-size: 1.18rem;
+  }
+  .clearfix .btn{
+    padding: .15rem;
+  } 
+  .clearfix .btn{
+    margin-bottom: 5px;
+  } 
+  h1.display-4 {
+    font-size: 1.5rem;
+    font-weight: 389;
+    line-height: 1;
+ } 
+ img{
+   width:40px;
+   height: 30px;
+ }
+
+}
