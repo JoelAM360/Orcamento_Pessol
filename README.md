@@ -1,4 +1,4 @@
-# Orcamento_Pessol
+# Orcamento_Pessoal
 O Orçamento Pessoal é uma appweb para gestão das suas despesas.
 
 
